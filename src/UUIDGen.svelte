@@ -45,7 +45,7 @@
 
 <ul id="uuids" class="text-center text-2xl p-10 font-mono dark:text-white"/>
 
-<style lang="postcss" global>
+<style lang="postcss">
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
